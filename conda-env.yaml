@@ -1,0 +1,13 @@
+name: registration
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy=1.24.2
+  - networkx=3.0
+  - matplotlib=3.7.1
+  - scikit-learn=1.2.2
+  - scikit-image=0.19.3
+  - pip
+  - pip:
+    - open3d==0.17.0
