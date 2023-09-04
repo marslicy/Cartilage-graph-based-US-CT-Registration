@@ -27,7 +27,7 @@ Performance of scanning paths transferring from CT to US space on five distinct 
 
 
 ## citation
-The work has bee accepted by IROS2023
+The work has been accepted by IROS2023
 ```
 @inproceedings{jiang2023thoracic,
   title={Thoracic Cartilage Ultrasound-CT Registration using Dense Skeleton Graph},
